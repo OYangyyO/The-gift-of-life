@@ -50,7 +50,7 @@ Icon 3: The heart rate sensor we purchased was incompatible with the ESP32, caus
 Icon 4: Using a 220V power switch was unsafe. Following the teacher's advice, it was replaced with a 5V 2A plug and a 24V 5A plug.
 
 ## Arduino coding
-Click here to see this project code [here](UNO_final)
+Click here to see this project code [here](UNO_final.ino)
 
 [here](arduino-code/LEO_soundfinal/)
 
