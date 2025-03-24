@@ -52,7 +52,7 @@ Icon 4: Using a 220V power switch was unsafe. Following the teacher's advice, it
 ## Arduino coding
 Click here to see this project code [here](UNO_final.ino)
 
-[here](arduino-code/LEO_soundfinal/)
+[here](LEO_soundfinal.ino)
 
 ## Project Overview
 
