@@ -23,12 +23,11 @@ In Chinese traditional culture, the concept of “keeping the body intact as a g
 
 **The Gift of Life** was conceived to bridge the gap between the cultural and emotional complexities surrounding organ donation. By leveraging technology and art, this project creates a space where donors, recipients, and their families can connect on a deeply emotional and spiritual level, making the act of organ donation more meaningful and widely accepted.
 
-![final3](https://git.arts.ac.uk/24010647/Xiwen-Yang-Blog-2024/assets/1301/375e2cc1-d48f-4ad0-9b8e-47b82b4837c2)
+![375e2cc1-d48f-4ad0-9b8e-47b82b4837c2](https://github.com/user-attachments/assets/17931e40-637e-4d99-b5e2-d72ec32ca326)
 
-![final5](https://git.arts.ac.uk/24010647/Xiwen-Yang-Blog-2024/assets/1301/1a10c9a6-c5bb-4077-a00e-0181704dadd4)
+![123](https://github.com/user-attachments/assets/79e174d1-7327-4b5c-a948-79e694474d9a)
 
-![mindmap_画板 1](https://git.arts.ac.uk/24010647/Xiwen-Yang-Blog-2024/assets/1301/0428a7dc-bddb-4f54-b2ee-f0fd4120871a)
-
+![0428a7dc-bddb-4f54-b2ee-f0fd4120871a](https://github.com/user-attachments/assets/d4830651-f162-4325-b6fc-bb40253a610c)
 
 Click this link to watch the video:
 https://youtu.be/bWhG10y1lAM
