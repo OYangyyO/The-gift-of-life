@@ -36,7 +36,9 @@ Development Weblog Link:
 https://spot-hugger-6e8.notion.site/The-Gift-of-Life-Develop-Weblog-6dfbf6ba43634057be8daa8c8fa7d0af
 
 ## Hardware
-![画板 5](https://git.arts.ac.uk/24010363/24010363-Arduino-Physical-Computing/assets/1222/621ad2e9-20a6-4de2-b7fe-8b530e9d775d)
+
+![621ad2e9-20a6-4de2-b7fe-8b530e9d775d](https://github.com/user-attachments/assets/7127a62b-5118-4f26-a029-851530ea9357)
+
 In our project, several components were replaced
 
 Icon 1: The ESP32 was burned due to improper operation during the soldering process, and it was replaced with an UNO board.
@@ -66,22 +68,22 @@ The design challenges viewers to reconsider organ donation not as a clinical pro
 
 
 
-![325443289](https://git.arts.ac.uk/24010363/24010363-Arduino-Physical-Computing/assets/1222/737aa977-8b03-41ee-9c75-39adeb07ac38)
+![737aa977-8b03-41ee-9c75-39adeb07ac38](https://github.com/user-attachments/assets/ca900e78-167b-4828-9a13-d76e37ba036a)
 
 The project consists of three interconnected parts: Cycle, Transformed, and Transcendence. These components combine sensory interaction with symbolic representation to explore the journey of life, death, and renewal through organ donation.
 
-![画板 3](https://git.arts.ac.uk/24010363/24010363-Arduino-Physical-Computing/assets/1222/294070f3-a6da-49ef-b692-c6245772c1b5)
+![294070f3-a6da-49ef-b692-c6245772c1b5](https://github.com/user-attachments/assets/91e1ae93-4369-4a3f-a185-e46ad9f5b17b)
 
 1.**Cycle**
 Core Concept: Family members of the donor can hear the sound of the donor’s heart beating within the chest of the recipient.
 The heartbeat becomes the “rhythm of life,” signifying the donor’s continued existence in another. Real-time heart rate data from the recipient is transformed into an audible heartbeat, fostering an intimate connection between the family and the ongoing life of the donor.
-![final2](https://git.arts.ac.uk/24010363/24010363-Arduino-Physical-Computing/assets/1222/20975b5f-d43e-4836-a5f8-5a254f917968)
+![20975b5f-d43e-4836-a5f8-5a254f917968](https://github.com/user-attachments/assets/7b509f8e-cfc1-4738-872a-6987d42f6927)
 
 
 2.**Transformed**
 Core Concept: Heart rate data is visualized as rippling water waves, symbolizing the transfer and continuation of life.
 The ripples represent the enduring impact of a life given, expanding into a new realm of existence. Using real-time data and dynamic projection, the waves create an interactive visual experience, connecting the physical and spiritual aspects of life.
-![final1](https://git.arts.ac.uk/24010363/24010363-Arduino-Physical-Computing/assets/1222/e7151d55-c812-4277-bfec-e6be5072fc01)
+![e7151d55-c812-4277-bfec-e6be5072fc01](https://github.com/user-attachments/assets/b2b9dca4-4887-4f10-aa33-2c692552ef9e)
 
 
 3.**Transcendence**
@@ -90,7 +92,8 @@ These sounds evoke the idea of life’s elevation, transforming grief into spiri
 
 ### Design Philosophy
 In this project, we integrated multiple sensory experiences: visualizing heart rate as water waves, combining the vibration of a stainless-steel tray with the  sound of a traditional Buddhist bell, and connecting the donor and recipient through a tactile touchpad interface. By blending traditional culture with modern technology, we aimed to break conventional perceptions and elevate organ donation from a medical act to a spiritual experience.
-![画板 2](https://git.arts.ac.uk/24010363/24010363-Arduino-Physical-Computing/assets/1222/f165bf26-e64f-4f2a-aa94-58e2c615bca6)
+![f165bf26-e64f-4f2a-aa94-58e2c615bca6](https://github.com/user-attachments/assets/eabb302a-4ac5-4561-b98d-a56ebff5e3c1)
+
 
 ### Reflections
 We chose organ donation as our central theme—a topic rich with emotional tension and profound significance. This choice challenged us to explore how music could convey the subtleties of deep emotions. During the early stages of development, we realized that expressing such profound sentiments would require not only creativity but also a deep understanding and respect, especially when addressing the stories of donors and their families.
