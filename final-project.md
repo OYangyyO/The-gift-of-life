@@ -8,7 +8,7 @@
 
 **Source Code**: https://editor.p5js.org/3190601180/sketches/v-IPlli21
 
-**Project Video**: [Pixelated Echo video](https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d4274058-b6f7-4da3-b217-b2a5012efcd6)  
+**Project Video**: [Pixelated Echo video](https://youtu.be/ubdQsHe2ta8)  
 
 **References**: 
 
