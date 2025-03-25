@@ -1,6 +1,6 @@
 
 
-## Final Project：Pixelated Echo
+## Pixelated Echo
 
 **Student Name (Id#)**: Xiwen Yang (24010647)
 
