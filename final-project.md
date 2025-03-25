@@ -21,21 +21,21 @@
 
 In today’s fast-paced digital world, we consume information **faster than ever**—scrolling through headlines, watching short clips, and letting AI filter what we see. But what do we lose when we **prioritize speed over depth**? *Pixelated Echo* is an **interactive generative art project** that explores this question. By using **real-time speech recognition and dynamic pixelation**, the work visualizes what happens when communication is reduced to **only keywords**, stripping away depth, context, and ultimately, self-expression.
 
-![image](https://git.arts.ac.uk/24010647/Critical-Coding-Two-Notebook/assets/1301/44cb2f3d-3f18-4a67-89bb-e0d32a33e372)
+![44cb2f3d-3f18-4a67-89bb-e0d32a33e372](https://github.com/user-attachments/assets/c41cfa55-33e0-4ae6-9dd8-56567e61b1a9)
 
 As users speak, the system **extracts only key terms**, and the fewer words retained, the **more their image becomes pixelated**. This serves as a metaphor for **how filtering in modern communication erases details and identity**. The project creates a direct, interactive experience where users physically **see themselves disappear** as their speech is reduced.  
 
 The piece was developed using **Web Speech API** for real-time speech recognition, **Natural Language Processing (NLP)** to extract keywords, and **p5.js** for pixelation and video processing. The system links **speech complexity to image clarity**, creating a **fluid and responsive** interaction. 
 
-![image](https://git.arts.ac.uk/24010647/Critical-Coding-Two-Notebook/assets/1301/4e61de0a-93a0-4741-b7bf-7c482021c423)
+![4e61de0a-93a0-4741-b7bf-7c482021c423](https://github.com/user-attachments/assets/77e96d93-4762-4608-82b0-2b8b92041358)
 
 Inspired by an OpenProcessing reference project on **fixed pixelation** ([link](https://openprocessing.org/sketch/2456109)), I modified it to make **pixelation dynamic and real-time**, tied directly to the user’s spoken input.  
 
-![image](https://git.arts.ac.uk/24010647/Critical-Coding-Two-Notebook/assets/1301/0649f5f2-0c3f-490b-8ede-c6a0a00df5b3)
+![0649f5f2-0c3f-490b-8ede-c6a0a00df5b3](https://github.com/user-attachments/assets/edc4d826-5afb-40aa-a061-478e53377ba3)
 
 The inspiration for my project *Pixelated Echo* comes from **Mario Klingemann’s "Appropriate Response" (2020)**, which examines how filtering alters meaning in communication. Three key ideas from his work influenced me:
 
-![image](https://git.arts.ac.uk/24010647/Critical-Coding-Two-Notebook/assets/1301/b60e7d3d-8efc-40ce-913f-0cc35be992f4)
+![b60e7d3d-8efc-40ce-913f-0cc35be992f4](https://github.com/user-attachments/assets/c7c9409c-2d00-48a5-8410-2b2f03fa9a8e)
 
 1. **Information Reduction** – The more we cut down, the more meaning we lose.  
 2. **The Visual Representation of Loss** – Missing details are not just felt but seen.  
@@ -61,8 +61,8 @@ On a technical level, I'll be focusing more on how to get the system to determin
 
 ## Project Images
 
-![image](https://git.arts.ac.uk/24010647/Critical-Coding-Two-Notebook/assets/1301/4cf4f07b-ce3f-4222-809d-65d72a6bca47)
+![4cf4f07b-ce3f-4222-809d-65d72a6bca47](https://github.com/user-attachments/assets/35cf8ffb-bf72-43e8-8842-d182223fa498)
 
-![image](https://git.arts.ac.uk/24010647/Critical-Coding-Two-Notebook/assets/1301/fe8d857b-edee-4852-97ce-f52f23ccd32a)
+![fe8d857b-edee-4852-97ce-f52f23ccd32a](https://github.com/user-attachments/assets/d0115937-1008-419e-893e-55e98cf6522e)
 
 
