@@ -1,4 +1,4 @@
-# Fianl Project
+# The Gift of Life
 ## Project Title: The Gift of Life
 
 ### Background and Inspiration
