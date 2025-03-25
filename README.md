@@ -7,4 +7,4 @@ My name is Xiwen Yang. These are my creative projects~
 
 ⚡️⚡️**The p5js PROJECT**⚡️⚡️
 
-[Pixelated Echo]
+[Pixelated Echo](https://github.com/OYangyyO/Xiwen-Yang-projects/blob/main/final-project.md)
