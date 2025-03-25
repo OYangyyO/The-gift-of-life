@@ -1,22 +1,6 @@
 # Fianl Project
 ## Project Title: The Gift of Life
 
-### Project Task Division: 
-**Ideation** - Zhengxi Jia (50%), Xiwen Yang (50%) 
-
-**Research** - Zhengxi Jia (30%), Xiwen Yang (70%) 
-
-**Modeling** - Zhengxi Jia (80%), Xiwen Yang (20%) 
-
-**3D Printing** - Zhengxi Jia (50%), Xiwen Yang (50%)
-
-**Programming** - Zhengxi Jia (20%), Xiwen Yang (80%) 
-
-**Circuit Soldering** - Zhengxi Jia (60%), Xiwen Yang (40%) 
-
-**Project Integration** - Zhengxi Jia (50%), Xiwen Yang (50%)
-
-
 ### Background and Inspiration
 
 In Chinese traditional culture, the concept of “keeping the body intact as a gift from one’s parents” is deeply rooted, creating a significant cultural barrier to organ donation. However, organ donation transcends the physical realm, symbolizing the continuation of life and embodying profound compassion and altruism.
